@@ -34,13 +34,14 @@ Here’s what the component looks like at different screen sizes:
 ![](.\images\image-desktop.png)
 
 - Mobile version (below 660px):
+
 ![](.\images\image-mobile.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Ataize/https-github.com-Ataize-product-preview-card-component-main/tree/main]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -79,9 +80,9 @@ Moving forward, I want to focus on:
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - This article helped me with using responsive images
+- [https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images] - This article helped me with using responsive images
 
 ## Author
 
-- Frontend Mentor - [@ataize](https://www.frontendmentor.io/profile/Ataize)
-- Linkedin - [@ataizefeitosa](https://www.linkedin.com/in/ataizefeitosa/)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Ataize]()
+- Linkedin - [https://www.linkedin.com/in/ataizefeitosa/]()
