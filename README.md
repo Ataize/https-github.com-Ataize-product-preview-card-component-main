@@ -42,7 +42,7 @@ Here’s what the component looks like at different screen sizes:
 ### Links
 
 - Solution URL: [https://github.com/Ataize/https-github.com-Ataize-product-preview-card-component-main/tree/main]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ataize.github.io/https-github.com-Ataize-product-preview-card-component-main/]
 
 ## My process
 
