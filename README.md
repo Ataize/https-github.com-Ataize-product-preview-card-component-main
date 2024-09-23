@@ -31,11 +31,11 @@ Here’s what the component looks like at different screen sizes:
 
 - Desktop version (above 660px):
 
-![](.\images\image-desktop.png)
+![](./images/image-desktop.png)
 
 - Mobile version (below 660px):
 
-![](.\images\image-mobile.png)
+![](./images/image-mobile.png)
 
 
 
@@ -84,5 +84,5 @@ Moving forward, I want to focus on:
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/profile/Ataize]()
-- Linkedin - [https://www.linkedin.com/in/ataizefeitosa/]()
+- Frontend Mentor - [@Ataize](https://www.frontendmentor.io/profile/Ataize)
+- Linkedin - [@ataizefeitosa](https://www.linkedin.com/in/ataizefeitosa/)
