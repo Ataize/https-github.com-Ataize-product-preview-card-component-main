@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: hsl(30, 38%, 92%);
+    font-family: "Montserrat", sans-serif;
+    color: hsl(228, 12%, 48%);
+    /* margin: 30px auto; */
+}
+section{
+    width: 368px;
+    /* width: 60vw; */
+    min-width: 300px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5px;
+}
+.container{
+    max-width: 350px;
+    padding: 15px;
+}
+.category{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+img{
+    border-radius: 5px 5px 0 0;
+    width: 368px;
+    width: 100%;
+}
+h1{
+    width: 100%;
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    /* margin: 10px 0; */
+    color:  hsl(212, 21%, 14%);
+}
+h1, p{
+    margin: 10px 0;
+}
+
+.description{
+    width: 100%;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+.price-inline{
+    display: flex;
+    /* margin: 10px 0; */
+}
+.price{
+    color: hsl(158, 36%, 37%);
+    font-size: 1.5em;
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+    margin: 0 20px 0 0;
+    width: 100px;
+}
+small{
+    text-decoration: line-through;
+}
+button{
+    background-color: hsl(158, 36%, 37%);
+    width: 100%;
+    border: none;
+    height: 40px;
+    color: hsl(0, 0%, 100%);
+    border-radius: 5px;
+}
+button:hover{
+    background-color:hsl(158, 42%, 25%);
+    cursor: pointer;
+    font-size: 1em;
+    transition: 1s;
+}
+.icon-cart{
+    margin-right: 10px;
+    width: 20px;
+}
+@media (min-width: 670px) {
+    section{
+        display: flex;
+        width: 600px;
+        height: 450px;
+    } 
+    .container {
+        border-radius: 0 5px 5px 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    h1, .price-inline, .category{
+        margin: 20px, 0;
+    }
+    img{
+        width: 300px;
+        border-radius: 5px 0 0 5px;
+    }
+    .container{
+        border-radius: 0 5px 5px 0;
+    }
+}
