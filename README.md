@@ -61,7 +61,8 @@ This project helped me solidify my understanding of responsive design using medi
 
 Here’s a small code snippet showcasing how the media queries were used:
 
-```@media (min-width: 670px) {
+```
+@media (min-width: 670px) {
   section {
     display: flex;
     width: 600px;
